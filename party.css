@@ -1,0 +1,87 @@
+body{background-color:lightblue;
+}
+
+*{font-family:arial, verdana, sans-serif;
+}
+
+aside{width:250px;
+height:auto;
+}
+
+#games{float:left;
+padding-right:10px;
+min-height:400px;
+}
+
+#news{float:right;
+padding-left:10px;
+min-height:400px;
+}
+
+nav{text-align:center;
+word-spacing:1.5em;
+background-color:yellow;
+font-weight:bold;
+}
+
+nav a{color:black;
+text-shadow:1.5px 1.5px white;
+text-decoration:none;
+}
+
+nav a:hover, a:hover{color:lightblue;
+text-shadow:1.5px 1.5px black;
+}
+
+a{color:darkgreen;
+text-shadow:1.5px 1.5px white;
+}
+
+
+#main{margin-left:auto;
+margin-right:auto;
+}
+
+div{background-color:white;
+border:2px solid black;
+box-shadow:2px 2px 2px yellow;
+}
+
+#wrapper{margin:0 255px 0 255px;
+background-color:lightblue;
+border-style:none;
+box-shadow:2px 2px 2px lightblue;
+}
+
+footer{font-weight:bold;
+font-size:0.6em;
+text-align:left;
+padding-left:10px;
+background-color:yellow;
+clear:both;
+margin-top:10px;
+}
+
+#matches{width:1050px;
+}
+
+#mainnews{float:right;
+width:1050px;
+margin-bottom:20px;
+}
+
+iframe{width:875px;
+height:260px;
+}
+
+ul{text-align:center;
+list-style-type:none;
+}
+
+#records{width:675px;
+margin-left:auto;
+margin-right:auto;
+}
+
+header a{text-decoration:none;
+}
